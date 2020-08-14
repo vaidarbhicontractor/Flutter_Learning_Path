@@ -1,6 +1,8 @@
 # Flutter_Learning_Path :-
 
-  Here I am with some information related how can we become PRO in Flutter. Kindly follow below steps. :open_book: :woman_technologist:
+  Here I am with some information related how can we become PRO in Flutter. :open_book::woman_technologist:
+  
+  ## Kindly follow below steps :- :pushpin:
 
 + What is Flutter? :- 
 
@@ -39,4 +41,6 @@
   
 #### Also you can go with [Flutter Career Path - Become PRO Dev Course By Pawan Kumar - MTechViral](https://www.youtube.com/watch?v=Nl2kmAbC0bg&list=PLR2qQy0Zxs_WAho9MWS1e36xF9PKLdM5w)  
   
-  
+## Roadmap_To_Learn_Flutter :- :motorway:
+  <img src ="roadmap_2020.png" width:500>
+ 
